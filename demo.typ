@@ -2,7 +2,7 @@
 
 #set page(height: auto, width: auto, fill: white)
 
-= Natrual and consistent matrix --- #smallcaps[Natrix]
+= Natural and consistent matrix --- #smallcaps[Natrix]
 
 Switch your *#underline(`mat`)* to *#underline(`nat`)* and you will get a natural and consistent matrix.
 

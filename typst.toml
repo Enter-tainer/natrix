@@ -3,8 +3,8 @@ name = "natrix"
 version = "0.1.0"
 entrypoint = "lib.typ"
 authors = ["Wenzhuo Liu"]
-license = "MIT"
-description = "Natrual and consistent matrix for typst."
+license = "Apache-2.0"
+description = "Natural and consistent matrix for typst."
 
 homepage = "https://github.com/Enter-tainer/natrix"
 repository = "https://github.com/Enter-tainer/natrix"
